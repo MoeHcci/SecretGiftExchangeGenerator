@@ -5,3 +5,4 @@
 <p> If the number of people is odd. Then, one person is chosen at random and is removed from the game </p>
 <p> For an even list of people. the list of people is shuffled at random. Then, each person is assigned a person </p>
 <p> The project is displayed in a function format. Therefore, all you need to is run the function</p>
+<p> To run the project. Open the SecretGiftExchangeGenerator.ipynb file and run the secreteGift function. Ensure the correct .ods file is attached </p>
